@@ -1,7 +1,9 @@
 .search-bar {
+  background-color: rgb(240, 240, 240);
   border: 1px solid lightgray;
   border-radius: 5px;
   padding: 10px;
+  margin-bottom: 20px;
 }
 
 .search-bar form {
